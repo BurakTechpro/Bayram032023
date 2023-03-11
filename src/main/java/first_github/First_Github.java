@@ -3,6 +3,7 @@ package first_github;
 public class First_Github {
     public static void main(String[] args) {
         System.out.println("Version1");
+        System.out.println("Version2");
   /*
         *****GIT DAY1*****
         1. Create a project
